@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * Description: alx variables if else while
- * return: Always Return 0
+ * Return: Always Return 0
  */
 int main(void)
 {
