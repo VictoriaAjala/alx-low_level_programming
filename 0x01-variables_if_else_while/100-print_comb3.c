@@ -29,9 +29,9 @@ int main(void)
 				}
 			}
 			num3++;
-			putchar("\n");
 		}
 	}
 
+	putchar("\n");
 	return (0);
 }
