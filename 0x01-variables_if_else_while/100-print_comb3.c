@@ -29,6 +29,7 @@ int main(void)
 				}
 			}
 			num3++;
+			printf("\n");
 		}
 	}
 
