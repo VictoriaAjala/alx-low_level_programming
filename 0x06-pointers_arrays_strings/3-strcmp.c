@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _strcmp - to compare two strings
- * @s1: first string
- * @s2: second string
+ * _strcmp - compare two strings
+ * @s1: one string
+ * @s2: one string
  * Return: int that tells num spaces in between
  */
 
