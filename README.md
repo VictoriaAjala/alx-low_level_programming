@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C programming
+0x06 Pointers Arrays and Strings
